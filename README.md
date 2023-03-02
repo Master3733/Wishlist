@@ -1,40 +1,33 @@
 # Android Project 2 - Wishlist
-Submitted by: **Your Name Here**
+Submitted by: Chibuike Iwuchukwu
 
-**Name of your app** is a wishlist app that helps the user keep track of what they want to buy.
+Wishlist is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: 8+ hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ ] **User can see their list of items based on previously inputted items**
-
-The following **optional** features are implemented:
-
-- [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+- [X] **User can add an item to their wishlist**
+- [X] **User can see their list of items based on previously inputted items**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/AmoKi6u
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+https://convertio.co/webm-gif/
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+[ScreenToGif](https://www.screentogif.com/) for Windows -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+1. I had trouble using the EditTexts when it came down to running the app itself. I learned that 
+I needed three EditTexts in one xml file and three TextViews in another xml file.
+2. I struggled a little bit trying to figure out how to make the button's fucntionality.
+3. I did not quite understand how to use the three necessary functions for a RecyclerView.
